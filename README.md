@@ -1,6 +1,12 @@
 trezor-rollout
 =========
 
+# Deprecated
+
+We've moved to monorepo [trezor-suite](https://github.com/trezor/trezor-suite). Please file all issues and Pull Requests there.
+
+----
+
 [![npm version](https://badge.fury.io/js/trezor-rollout.svg)](https://badge.fury.io/js/trezor-rollout)
 
 Tldr: For historical reasons, Trezor devices firmware updates are not always straightforward. 
